@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KevinAlexanderSoto
-- 👀 I’m interested in Back-end develop
+- 👋 Hi, I’m Kevin Alexander Peñaranda Soto
+- 👀 I’m interested in Back-end Movil and IOT develop 
 - 🌱 I’m currently learning Js , Nodejs and other things
 - 📫 How to reach me : you can go to my youtube channel, Instagram or Twitter 
 
