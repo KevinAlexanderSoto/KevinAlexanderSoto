@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Alexander Peñaranda Soto
 - 👀 I’m interested in Back-end Movil and IOT develop 
-- 🌱 I’m currently learning Js , Nodejs and other things
-- 📫 How to reach me : you can go to my youtube channel, Instagram or Twitter 
+- 🌱 I’m currently learning Java SprintBoot and other things
+- 📫 How to reach me : you can send my an email or contact me on Instagram or Twitter 
 
 <!---
 KevinAlexanderSoto/KevinAlexanderSoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
