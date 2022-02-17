@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Alexander Peñaranda Soto
-- 👀 I’m interested in Back-end Movil and IOT develop 
-- 🌱 I’m currently learning Java SprintBoot and other things
+- 👀 I’m interested in Mobile Back-end and IOT develop 
+- 🌱 I’m currently learning Android develop and other things
 - 📫 How to reach me : you can send my an email or contact me on Instagram or Twitter 
 
 <!---
